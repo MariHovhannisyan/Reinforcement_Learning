@@ -7,10 +7,10 @@ The goal is to train the agents in a way so they either win the human player or 
 
 ## Project Files
 
-- **[tic_tac_toe.py](src/tic_tac_toe.py)**: Main script containing the game logic, training, competition, and human-play functions.
-- **[state.py](src/state.py)**: Generates all possible Tic-Tac-Toe board states.
-- **[player.py](src/player.py)**: Defines `RLPlayer` and `HumanPlayer` classes.
-- **[judge.py](src/judge.py)**: Manages the game between two players.
+- **[tic_tac_toe.py]**: Main script containing the game logic, training, competition, and human-play functions.
+- **[state.py]**: Generates all possible Tic-Tac-Toe board states.
+- **[player.py]**: Defines `RLPlayer` and `HumanPlayer` classes.
+- **[judge.py]**: Manages the game between two players.
 
 
 ## How It Works
